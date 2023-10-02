@@ -1,0 +1,4 @@
+# return the sum of all the elements of two arrays
+def array_plus_array(arr1, arr2)
+  sum = arr1.sum + arr2.sum
+end
