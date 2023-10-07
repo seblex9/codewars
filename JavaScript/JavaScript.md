@@ -8,3 +8,4 @@
 - [Opposite Number](oppositeNumber.js) - [CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095/javascript)
 - [Boolean to Yes Or No String](booleanToYesOrNoStrings.js) - [CodeWars](https://www.codewars.com/kata/53369039d7ab3ac506000467/javascript)
 - [Reversed String](reversedString.js) - [CodeWars](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/javascript)
+- [Sum of Positives](sumOfPositives.js) - [CodeWars](https://www.codewars.com/kata/5715eaedb436cf5606000381/javascript)
