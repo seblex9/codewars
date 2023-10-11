@@ -9,3 +9,4 @@
 - [Boolean to Yes Or No String](booleanToYesOrNoStrings.js) - [CodeWars](https://www.codewars.com/kata/53369039d7ab3ac506000467/javascript)
 - [Reversed String](reversedString.js) - [CodeWars](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/javascript)
 - [Sum of Positives](sumOfPositives.js) - [CodeWars](https://www.codewars.com/kata/5715eaedb436cf5606000381/javascript)
+- [Remove First, Last Character](removeFirstLastChar.js) - [CodeWars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/javascript)
